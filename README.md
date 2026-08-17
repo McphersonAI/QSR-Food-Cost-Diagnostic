@@ -143,6 +143,9 @@ Builder of practical AI systems for restaurant operations, cost control, and exe
 
 ## Version
 
+**v1.0.3**
+Publisher-note release; the Observa private beta is now open. No functional changes.
+
 **v1.0.2**
 Publisher-note release; operational behavior and license unchanged.
 
@@ -151,12 +154,12 @@ Initial public release.
 
 ---
 
-## McPherson Governance V6 private shadow beta
+## Observa private beta
 
-McPherson AI is preparing an invite-only V6 beta for OpenClaw operators and builders. V6 provides agent and capability discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa.
+The Observa private beta is now open for selected n8n and OpenClaw operators and builders. Observa starts in SHADOW mode, mapping agent capabilities, capturing reviewable governance evidence, and independently verifying supported workflow outcomes without taking production control.
 
-Shadow mode observes and evaluates activity without blocking, approving, denying, delaying, or rewriting actions.
+Running real n8n or OpenClaw workflows?
 
-[Request private beta access](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-food-cost-diagnostic#governance-setup)
+[Request private beta access](https://mcphersonai.com/private-beta?utm_source=github&utm_medium=skill-readme&utm_campaign=observa-private-beta&utm_content=qsr-food-cost-diagnostic)
 
 *This publisher notice does not change this skill’s behavior, data handling, or license.*
